@@ -41,7 +41,14 @@ To fix the responsiveness issue, follow these steps:
 
 ## Screenshots
 
-Attach screenshots of the game on different devices before and after applying the responsiveness fixes. This will help readers visualize the improvements.
+1. Desktop View 
+<img width="1434" alt="Screenshot 2023-10-15 at 10 21 54 AM" src="https://github.com/LalitDeore30/TicTacToe/assets/115993677/b269e639-c87c-424c-bd44-3dd0c4d26920">
+
+2. Mobile View 
+
+<img width="276" alt="Screenshot 2023-10-15 at 10 22 29 AM" src="https://github.com/LalitDeore30/TicTacToe/assets/115993677/9020fe94-0cd7-4b4f-8713-b9dd952be8d6">
+
+
 
 ## How to Solve the Responsiveness Issue
 
