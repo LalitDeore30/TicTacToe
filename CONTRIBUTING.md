@@ -1,6 +1,4 @@
-It seems like you would like to create a `CONTRIBUTING.md` file for your project based on the template you provided. You can create the `CONTRIBUTING.md` file in your repository with the following content:
 
-```markdown
 # Contribution Guidelines
 
 Thank you for your interest in contributing to our project! Please follow these steps to make a meaningful contribution:
